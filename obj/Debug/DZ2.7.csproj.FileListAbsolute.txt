@@ -1,0 +1,7 @@
+C:\Users\Gleb\source\repos\DZ2.7\DZ2.7\bin\Debug\DZ2.7.exe.config
+C:\Users\Gleb\source\repos\DZ2.7\DZ2.7\bin\Debug\DZ2.7.exe
+C:\Users\Gleb\source\repos\DZ2.7\DZ2.7\bin\Debug\DZ2.7.pdb
+C:\Users\Gleb\source\repos\DZ2.7\DZ2.7\obj\Debug\DZ2.7.csproj.AssemblyReference.cache
+C:\Users\Gleb\source\repos\DZ2.7\DZ2.7\obj\Debug\DZ2.7.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\source\repos\DZ2.7\DZ2.7\obj\Debug\DZ2.7.exe
+C:\Users\Gleb\source\repos\DZ2.7\DZ2.7\obj\Debug\DZ2.7.pdb
